@@ -1,0 +1,621 @@
+Roof,Attic,Bathrooms,Basement,HVAC,Bedrooms,Electrical,Exterior,Garage,Plumbing,Landscaping,Structural,Kitchen
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,NA,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,--,Functional,NA,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Needs Repairs,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,NA,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,NA,Needs Repairs,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,NA,Needs Repairs,Functional,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional
+Needs Repairs,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Functional,NA,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Needs Repairs
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,NA,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Functional,NA,Functional,NA,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Functional,Functional,Functional
+Needs Repairs,NA,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs
+Functional,NA,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,NA,Needs Repairs,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,NA,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,NA,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,NA,Functional,NA,Needs Repairs,Functional,Needs Repairs,Functional,NA,Needs Repairs,Functional,Functional,Functional
+Needs Repairs,NA,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Functional,Needs Repairs,Functional
+Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Functional
+Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Functional,NA,--,Needs Repairs,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Functional,NA,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,NA,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Needs Repairs,Functional,NA,Functional,Functional,Needs Repairs,Functional,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,NA,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Functional
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Functional,Needs Repairs,Needs Repairs,NA,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,--,Functional,Functional,Functional,Functional
+Functional,NA,Needs Repairs,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional
+Functional,NA,Functional,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs
+Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs
+Functional,NA,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,NA,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Needs Repairs,Functional,NA,Functional,Functional,Functional,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,--,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,NA,Needs Repairs,NA,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,NA,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Needs Repairs,NA,Needs Repairs,NA,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Functional,Functional,NA,Needs Repairs,Needs Repairs,Functional,Functional,NA,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs
+Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional
+Needs Repairs,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,NA,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,NA,Functional,NA,Functional,Functional,Functional,Functional,NA,Needs Repairs,Functional,Functional,Functional
+Needs Repairs,NA,Functional,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Needs Repairs
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Needs Repairs,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,NA,Functional,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Needs Repairs,Functional,Functional,Functional,NA,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,NA,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Functional,NA,Functional,Needs Repairs,Needs Repairs,Functional,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Functional,NA,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Functional,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Functional
+--,NA,Functional,Functional,Functional,Functional,Functional,--,NA,Needs Repairs,--,--,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,NA,Needs Repairs,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+Functional,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Needs Repairs,--,--,--,Functional,--,Functional,--,--,Functional,--,Functional,--
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,NA,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,NA,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,NA,Functional,NA,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,NA,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs,NA,Needs Repairs,Functional,Functional,Needs Repairs
+Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Needs Repairs,Functional,Needs Repairs,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,--,--,NA,--,--,--,Needs Repairs,Functional,--,Needs Repairs,Functional,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Needs Repairs,NA,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,NA,--,Functional,Functional,Functional,Functional
+Functional,NA,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,NA,Functional,NA,Needs Repairs,Functional,Needs Repairs,Needs Repairs,NA,Needs Repairs,Functional,Functional,Functional
+Functional,NA,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs
+Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Functional
+Needs Repairs,Needs Repairs,Needs Repairs,NA,Needs Repairs,Functional,Functional,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,NA,Functional,Needs Repairs,Functional,Needs Repairs
+Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,NA,Needs Repairs,Functional,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,NA,Functional,Needs Repairs,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,NA,Functional,Needs Repairs,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs
+Needs Repairs,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,NA,Needs Repairs,Functional,Functional,Functional,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional
+Needs Repairs,Functional,Functional,NA,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional,NA,Functional,Functional,Functional,Functional
+Needs Repairs,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Needs Repairs,Functional,Functional
+Needs Repairs,Functional,Functional,NA,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Needs Repairs
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Functional,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Functional
+Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional,Functional
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+--,--,--,--,--,--,--,--,--,--,--,--,--
+Functional,Functional,Needs Repairs,NA,Functional,Functional,Functional,Needs Repairs,Functional,Functional,Functional,Functional,Functional
+Functional,NA,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Needs Repairs,Functional,Needs Repairs,Functional,Needs Repairs,Needs Repairs
